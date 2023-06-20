@@ -1,0 +1,6 @@
+.terraform
+.terraform.lock.hcl
+aws_cred.txt
+terraform.tfstate
+terraform.tfstate.backup
+
